@@ -64,7 +64,7 @@
 
 ### Estrutura de Entrada : 
 ---
-&nbsp;&nbsp;&nbsp;A entrada para o algoritmo Ford Fulkerson é:
+&nbsp;&nbsp;&nbsp;A entrada para o algoritmo de Ford Fulkerson é:
 
 &nbsp;&nbsp;&nbsp;A primeira linha contendo o numero de vertices e arestas seguido pelo numero de linhas, correspondente ao numero de arestas, onde cada um é uma linha para a lista de adjacencia do grafo. Na ultima linha recebemos duas variáveis ​​inteiras referentes ao vértice inicial e ao vértice destino.
 
@@ -94,11 +94,11 @@
 ---
 </br>
 
-## Kruskal algoritmo :
+## Algoritmo de Kruskal :
 
 ### Estrutura de Entrada : 
 ---
-&nbsp;&nbsp;&nbsp;A entrada para o algoritmo Kruskal é:
+&nbsp;&nbsp;&nbsp;A entrada para o algoritmo de Kruskal é:
 
 &nbsp;&nbsp;&nbsp;O numero correspondente as arestas e vetores e um numero correspondente ao numero de entradas,onde cada uma será uma lista de adjacências do grafo. 
 ```
@@ -147,11 +147,11 @@ As Bordas da Árvore geradora são:
 ---
 </br>
 
-## Prim algoritmo :
+## Algoritmo de Prim :
 
 ### Estrutura de Entrada : 
 ---
-&nbsp;&nbsp;&nbsp;A entrada para o algoritmo Prim é:
+&nbsp;&nbsp;&nbsp;A entrada para o algoritmo de Prim é:
 
 &nbsp;&nbsp;&nbsp;A primeira linha para o número de vértices e arestas seguida de um número de linhas, correspondente ao número de arestas, sendo cada uma delas uma linha para a lista de adjacências do grafo.
 ```
