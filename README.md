@@ -8,8 +8,8 @@
 + Maurício Mateus dos Santos
 
 ## Estrutura :
-+ A estrutura principal desse repositorio é: 
-  + Um diretório para cada algoritmo:
++ A estrutura principal desse repositorio esta divida em: 
+  + Um diretório para cada algoritmo contendo:
     + Um codigo .cpp para cada algoritmo.
     + Um arquivo de entrada para cada algoritmo.
     + Um makefile.
